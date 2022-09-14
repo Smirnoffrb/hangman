@@ -21,7 +21,7 @@ bundle
 -----------
 
 ```
-ruby main.rb
+bundle exec ruby main.rb
 ```
 
 Добавление новых слов
